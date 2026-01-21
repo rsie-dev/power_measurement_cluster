@@ -1,7 +1,4 @@
 [Unit]
-#Documentation=man:fstab(5) man:systemd-fstab-generator(8)
-#SourcePath=/etc/fstab
-#Before=local-fs.target
 
 [Mount]
 What=tmpfs
